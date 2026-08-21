@@ -13,6 +13,8 @@ int main()
     int key, index = -1;
     cin>>key;
 
+
+    // this is my comment 
     int st = 0,end = n-1, mid;
     while(st<=end)
     { 
