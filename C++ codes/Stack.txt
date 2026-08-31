@@ -1,0 +1,46 @@
+#include <stdio.h>
+int main ()
+{
+
+{
+printf("\n\nType..\n1 to push\n2 to pop\n3 to check if the stack is
+Empty\n4 to check the stack is Full\n0 to exit\n");
+scanf("%d", &option);
+if(option==1)
+{
+flow and
+
+Return.
+//else ask user what value to push, name it as “push”
+
+//increment the value of top by 1
+
+//insert the specified number of “push” in the “top”-th index of the
+stack
+
+//After the if else loop print the stack
+}
+else if(option==2)
+{
+//If top = -1 then Print: Underflow and Return.
+
+// else insert a null in the “top”-th index //
+decrement the value of top by 1
+// After the if else loop print the stack
+
+}
+else if(option==3)
+{
+//return true(1) if stack is empty, false(0) otherwise }
+else if(option==4)
+
+{
+//return true(1) if stack is Full, false(0) otherwise }
+else if(option==0)
+{
+return ;
+}
+else printf("Invalid input.\n");
+}
+return 0;
+}
