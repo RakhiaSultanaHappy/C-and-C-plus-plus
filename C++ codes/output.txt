@@ -1,0 +1,8 @@
+
+Type...
+ 1 to push
+ 2 to pop
+ 3 to check wheather the syack if empty
+ 4 to check wheather the stack is full
+ 0 o exit 
+UnderflowStack:[]
